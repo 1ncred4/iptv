@@ -53,3 +53,11 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+
+☘️台湾频道,#genre#
+
+☘️台湾新闻频道,#genre#
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
+
+☘️台湾电影频道,#genre#

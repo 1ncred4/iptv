@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250513044106 +0800">
+<tv date="20250513070919 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2391,6 +2391,147 @@
 	<programme channel="东方卫视" start="20250513224600 +0800" stop="20250513235900 +0800">
 		<title lang="zh">越动青春（2）</title>
 	</programme>
+	<channel id="东森新闻">
+		<display-name lang="zh">东森新闻</display-name>
+	</channel>
+	<programme channel="东森新闻" start="20250513000000 +0800" stop="20250513010000 +0800">
+		<title lang="zh">东森夜线新闻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513010000 +0800" stop="20250513020000 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513020000 +0800" stop="20250513030000 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513030000 +0800" stop="20250513040000 +0800">
+		<title lang="zh">东森夜线新闻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513040000 +0800" stop="20250513050000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513050000 +0800" stop="20250513060000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513060000 +0800" stop="20250513090000 +0800">
+		<title lang="zh">Hello台湾</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513090000 +0800" stop="20250513100000 +0800">
+		<title lang="zh">东森新闻0900</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513100000 +0800" stop="20250513140000 +0800">
+		<title lang="zh">东森午安新闻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513140000 +0800" stop="20250513150000 +0800">
+		<title lang="zh">东森新闻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513150000 +0800" stop="20250513160000 +0800">
+		<title lang="zh">东森大社会</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513160000 +0800" stop="20250513170000 +0800">
+		<title lang="zh">东森晚间新闻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513170000 +0800" stop="20250513200000 +0800">
+		<title lang="zh">东森晚间新闻</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513200000 +0800" stop="20250513210000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513210000 +0800" stop="20250513220000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森新闻" start="20250513220000 +0800" stop="20250513235900 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<channel id="中视">
+		<display-name lang="zh">中视</display-name>
+	</channel>
+	<programme channel="中视" start="20250513000000 +0800" stop="20250513010000 +0800">
+		<title lang="zh">墨雨云间第34集</title>
+	</programme>
+	<programme channel="中视" start="20250513010000 +0800" stop="20250513020000 +0800">
+		<title lang="zh">墨雨云间第35集</title>
+	</programme>
+	<programme channel="中视" start="20250513020000 +0800" stop="20250513030000 +0800">
+		<title lang="zh">全民星攻略第1168集</title>
+	</programme>
+	<programme channel="中视" start="20250513030000 +0800" stop="20250513033000 +0800">
+		<title lang="zh">台湾味道7第8集</title>
+	</programme>
+	<programme channel="中视" start="20250513033000 +0800" stop="20250513040000 +0800">
+		<title lang="zh">台湾味道7第9集</title>
+	</programme>
+	<programme channel="中视" start="20250513040000 +0800" stop="20250513050000 +0800">
+		<title lang="zh">MIT台湾志第824集</title>
+	</programme>
+	<programme channel="中视" start="20250513050000 +0800" stop="20250513060000 +0800">
+		<title lang="zh">大陆寻奇第1932集</title>
+	</programme>
+	<programme channel="中视" start="20250513060000 +0800" stop="20250513070000 +0800">
+		<title lang="zh">全民星攻略第1168集</title>
+	</programme>
+	<programme channel="中视" start="20250513070000 +0800" stop="20250513080000 +0800">
+		<title lang="zh">中视早安新闻第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513080000 +0800" stop="20250513083000 +0800">
+		<title lang="zh">财经早点名第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513083000 +0800" stop="20250513090000 +0800">
+		<title lang="zh">股市贵公子第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513090000 +0800" stop="20250513100000 +0800">
+		<title lang="zh">绕着幸福转第52集</title>
+	</programme>
+	<programme channel="中视" start="20250513100000 +0800" stop="20250513110000 +0800">
+		<title lang="zh">墨雨云间第34集</title>
+	</programme>
+	<programme channel="中视" start="20250513110000 +0800" stop="20250513115800 +0800">
+		<title lang="zh">墨雨云间第35集</title>
+	</programme>
+	<programme channel="中视" start="20250513115800 +0800" stop="20250513130000 +0800">
+		<title lang="zh">中视午间新闻第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513130000 +0800" stop="20250513140000 +0800">
+		<title lang="zh">MIT台湾志第786集</title>
+	</programme>
+	<programme channel="中视" start="20250513140000 +0800" stop="20250513143000 +0800">
+		<title lang="zh">股林高手第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513143000 +0800" stop="20250513150000 +0800">
+		<title lang="zh">超越巅峰第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513150000 +0800" stop="20250513153000 +0800">
+		<title lang="zh">价值型投资第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513153000 +0800" stop="20250513160000 +0800">
+		<title lang="zh">金融鬼谷子第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513160000 +0800" stop="20250513170000 +0800">
+		<title lang="zh">绕着幸福转第53集</title>
+	</programme>
+	<programme channel="中视" start="20250513170000 +0800" stop="20250513172800 +0800">
+		<title lang="zh">樱桃小丸子第5季第347集</title>
+	</programme>
+	<programme channel="中视" start="20250513172800 +0800" stop="20250513175800 +0800">
+		<title lang="zh">樱桃小丸子第4季第271集</title>
+	</programme>
+	<programme channel="中视" start="20250513175800 +0800" stop="20250513185800 +0800">
+		<title lang="zh">全民星攻略第1169集</title>
+	</programme>
+	<programme channel="中视" start="20250513185800 +0800" stop="20250513200000 +0800">
+		<title lang="zh">中视新闻全球报导第13集</title>
+	</programme>
+	<programme channel="中视" start="20250513200000 +0800" stop="20250513210000 +0800">
+		<title lang="zh">墨雨云间第35集</title>
+	</programme>
+	<programme channel="中视" start="20250513210000 +0800" stop="20250513220000 +0800">
+		<title lang="zh">墨雨云间第36集</title>
+	</programme>
+	<programme channel="中视" start="20250513220000 +0800" stop="20250513230000 +0800">
+		<title lang="zh">长风渡第3集</title>
+	</programme>
+	<programme channel="中视" start="20250513230000 +0800" stop="20250513235900 +0800">
+		<title lang="zh">长风渡第4集</title>
+	</programme>
 	<channel id="云南卫视">
 		<display-name lang="zh">云南卫视</display-name>
 	</channel>
@@ -2726,6 +2867,177 @@
 	</programme>
 	<programme channel="北京卫视" start="20250513231900 +0800" stop="20250513235900 +0800">
 		<title lang="zh">情满四合院(10)</title>
+	</programme>
+	<channel id="华视">
+		<display-name lang="zh">华视</display-name>
+	</channel>
+	<programme channel="华视" start="20250513000000 +0800" stop="20250513010000 +0800">
+		<title lang="zh">新苏足第15集</title>
+	</programme>
+	<programme channel="华视" start="20250513010000 +0800" stop="20250513020000 +0800">
+		<title lang="zh">新苏足第16集</title>
+	</programme>
+	<programme channel="华视" start="20250513020000 +0800" stop="20250513030000 +0800">
+		<title lang="zh">流星花园第28集</title>
+	</programme>
+	<programme channel="华视" start="20250513030000 +0800" stop="20250513040000 +0800">
+		<title lang="zh">爱你没条件第46集</title>
+	</programme>
+	<programme channel="华视" start="20250513040000 +0800" stop="20250513050000 +0800">
+		<title lang="zh">爱你没条件第47集</title>
+	</programme>
+	<programme channel="华视" start="20250513050000 +0800" stop="20250513060000 +0800">
+		<title lang="zh">新苏足第14集</title>
+	</programme>
+	<programme channel="华视" start="20250513060000 +0800" stop="20250513070000 +0800">
+		<title lang="zh">三国演议第407集</title>
+	</programme>
+	<programme channel="华视" start="20250513070000 +0800" stop="20250513080000 +0800">
+		<title lang="zh">Goodmorning台湾第2集</title>
+	</programme>
+	<programme channel="华视" start="20250513080000 +0800" stop="20250513090000 +0800">
+		<title lang="zh">土地公传奇第40集</title>
+	</programme>
+	<programme channel="华视" start="20250513090000 +0800" stop="20250513100000 +0800">
+		<title lang="zh">土地公传奇第41集</title>
+	</programme>
+	<programme channel="华视" start="20250513100000 +0800" stop="20250513105800 +0800">
+		<title lang="zh">包青天第86集</title>
+	</programme>
+	<programme channel="华视" start="20250513105800 +0800" stop="20250513115800 +0800">
+		<title lang="zh">包青天第87集</title>
+	</programme>
+	<programme channel="华视" start="20250513115800 +0800" stop="20250513130000 +0800">
+		<title lang="zh">华视午间新闻第6252集</title>
+	</programme>
+	<programme channel="华视" start="20250513130000 +0800" stop="20250513140000 +0800">
+		<title lang="zh">新苏足第15集</title>
+	</programme>
+	<programme channel="华视" start="20250513140000 +0800" stop="20250513160000 +0800">
+		<title lang="zh">警世剧场第61集</title>
+	</programme>
+	<programme channel="华视" start="20250513160000 +0800" stop="20250513165300 +0800">
+		<title lang="zh">华视在地新闻第3447集</title>
+	</programme>
+	<programme channel="华视" start="20250513165300 +0800" stop="20250513165800 +0800">
+		<title lang="zh">华视生活广场第1169集</title>
+	</programme>
+	<programme channel="华视" start="20250513165800 +0800" stop="20250513172800 +0800">
+		<title lang="zh">新哆啦Ａ梦第596集</title>
+	</programme>
+	<programme channel="华视" start="20250513172800 +0800" stop="20250513175800 +0800">
+		<title lang="zh">乌龙派出所第109集</title>
+	</programme>
+	<programme channel="华视" start="20250513175800 +0800" stop="20250513182800 +0800">
+		<title lang="zh">乌龙派出所第110集</title>
+	</programme>
+	<programme channel="华视" start="20250513182800 +0800" stop="20250513185800 +0800">
+		<title lang="zh">新哆啦Ａ梦第597集</title>
+	</programme>
+	<programme channel="华视" start="20250513185800 +0800" stop="20250513200000 +0800">
+		<title lang="zh">华视晚间新闻第6272集</title>
+	</programme>
+	<programme channel="华视" start="20250513200000 +0800" stop="20250513210000 +0800">
+		<title lang="zh">新苏足第16集</title>
+	</programme>
+	<programme channel="华视" start="20250513210000 +0800" stop="20250513220000 +0800">
+		<title lang="zh">新苏足第17集</title>
+	</programme>
+	<programme channel="华视" start="20250513220000 +0800" stop="20250513230000 +0800">
+		<title lang="zh">第一世家第1集</title>
+	</programme>
+	<programme channel="华视" start="20250513230000 +0800" stop="20250513235500 +0800">
+		<title lang="zh">华视夜间新闻第3069集</title>
+	</programme>
+	<programme channel="华视" start="20250513235500 +0800" stop="20250513235900 +0800">
+		<title lang="zh">华视生活广场第1170集</title>
+	</programme>
+	<channel id="台视">
+		<display-name lang="zh">台视</display-name>
+	</channel>
+	<programme channel="台视" start="20250513000000 +0800" stop="20250513010000 +0800">
+		<title lang="zh">菜头梗的滋味第13集</title>
+	</programme>
+	<programme channel="台视" start="20250513010000 +0800" stop="20250513020000 +0800">
+		<title lang="zh">菜头梗的滋味第14集</title>
+	</programme>
+	<programme channel="台视" start="20250513020000 +0800" stop="20250513030000 +0800">
+		<title lang="zh">台湾名人堂第378集</title>
+	</programme>
+	<programme channel="台视" start="20250513030000 +0800" stop="20250513040000 +0800">
+		<title lang="zh">热线追踪第1221集</title>
+	</programme>
+	<programme channel="台视" start="20250513040000 +0800" stop="20250513050000 +0800">
+		<title lang="zh">台湾名人堂第420集</title>
+	</programme>
+	<programme channel="台视" start="20250513050000 +0800" stop="20250513060000 +0800">
+		<title lang="zh">健康好简单第1660集</title>
+	</programme>
+	<programme channel="台视" start="20250513060000 +0800" stop="20250513070000 +0800">
+		<title lang="zh">360行向前冲第509集</title>
+	</programme>
+	<programme channel="台视" start="20250513070000 +0800" stop="20250513080000 +0800">
+		<title lang="zh">早安您好台视新闻</title>
+	</programme>
+	<programme channel="台视" start="20250513080000 +0800" stop="20250513085800 +0800">
+		<title lang="zh">早安台湾台语新闻</title>
+	</programme>
+	<programme channel="台视" start="20250513085800 +0800" stop="20250513095800 +0800">
+		<title lang="zh">神机妙算刘伯温第181集</title>
+	</programme>
+	<programme channel="台视" start="20250513095800 +0800" stop="20250513102800 +0800">
+		<title lang="zh">消费情报赞第2488集</title>
+	</programme>
+	<programme channel="台视" start="20250513102800 +0800" stop="20250513105800 +0800">
+		<title lang="zh">消费情报赞第2488集</title>
+	</programme>
+	<programme channel="台视" start="20250513105800 +0800" stop="20250513115800 +0800">
+		<title lang="zh">白鹭鸶的愿望第24集</title>
+	</programme>
+	<programme channel="台视" start="20250513115800 +0800" stop="20250513130000 +0800">
+		<title lang="zh">午安您好台视新闻</title>
+	</programme>
+	<programme channel="台视" start="20250513130000 +0800" stop="20250513140000 +0800">
+		<title lang="zh">菜头梗的滋味第13集</title>
+	</programme>
+	<programme channel="台视" start="20250513140000 +0800" stop="20250513150000 +0800">
+		<title lang="zh">菜头梗的滋味第14集</title>
+	</programme>
+	<programme channel="台视" start="20250513150000 +0800" stop="20250513153000 +0800">
+		<title lang="zh">消费情报赞第2488集</title>
+	</programme>
+	<programme channel="台视" start="20250513153000 +0800" stop="20250513160000 +0800">
+		<title lang="zh">生活情报通第1869集</title>
+	</programme>
+	<programme channel="台视" start="20250513160000 +0800" stop="20250513163000 +0800">
+		<title lang="zh">生活情报通第1869集</title>
+	</programme>
+	<programme channel="台视" start="20250513163000 +0800" stop="20250513165800 +0800">
+		<title lang="zh">神奇故事屋第1集</title>
+	</programme>
+	<programme channel="台视" start="20250513165800 +0800" stop="20250513172800 +0800">
+		<title lang="zh">我们这一家第16集</title>
+	</programme>
+	<programme channel="台视" start="20250513172800 +0800" stop="20250513175800 +0800">
+		<title lang="zh">我们这一家第17集</title>
+	</programme>
+	<programme channel="台视" start="20250513175800 +0800" stop="20250513182800 +0800">
+		<title lang="zh">蜡笔小新第41集</title>
+	</programme>
+	<programme channel="台视" start="20250513182800 +0800" stop="20250513185800 +0800">
+		<title lang="zh">蜡笔小新第42集</title>
+	</programme>
+	<programme channel="台视" start="20250513185800 +0800" stop="20250513200000 +0800">
+		<title lang="zh">台视晚间新闻</title>
+	</programme>
+	<programme channel="台视" start="20250513200000 +0800" stop="20250513210000 +0800">
+		<title lang="zh">菜头梗的滋味第14集</title>
+	</programme>
+	<programme channel="台视" start="20250513210000 +0800" stop="20250513220000 +0800">
+		<title lang="zh">菜头梗的滋味第15集</title>
+	</programme>
+	<programme channel="台视" start="20250513220000 +0800" stop="20250513235900 +0800">
+		<title lang="zh">美丽人生壮志高飞第224集</title>
 	</programme>
 	<channel id="吉林卫视">
 		<display-name lang="zh">吉林卫视</display-name>
@@ -3770,6 +4082,114 @@
 	</programme>
 	<programme channel="新疆卫视" start="20250513233200 +0800" stop="20250513235900 +0800">
 		<title lang="zh">新闻夜班车</title>
+	</programme>
+	<channel id="民视">
+		<display-name lang="zh">民视</display-name>
+	</channel>
+	<programme channel="民视" start="20250513000000 +0800" stop="20250513013000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="民视" start="20250513013000 +0800" stop="20250513020000 +0800">
+		<title lang="zh">元气加油站第2954集</title>
+	</programme>
+	<programme channel="民视" start="20250513020000 +0800" stop="20250513023000 +0800">
+		<title lang="zh">消费高手第7864集</title>
+	</programme>
+	<programme channel="民视" start="20250513023000 +0800" stop="20250513030000 +0800">
+		<title lang="zh">元气加油站第2818集</title>
+	</programme>
+	<programme channel="民视" start="20250513030000 +0800" stop="20250513033000 +0800">
+		<title lang="zh">活力天天乐第1301集</title>
+	</programme>
+	<programme channel="民视" start="20250513033000 +0800" stop="20250513043000 +0800">
+		<title lang="zh">医学大联盟第421集</title>
+	</programme>
+	<programme channel="民视" start="20250513043000 +0800" stop="20250513050000 +0800">
+		<title lang="zh">元气加油站第2843集</title>
+	</programme>
+	<programme channel="民视" start="20250513050000 +0800" stop="20250513053000 +0800">
+		<title lang="zh">美凤有约第5144集</title>
+	</programme>
+	<programme channel="民视" start="20250513053000 +0800" stop="20250513060000 +0800">
+		<title lang="zh">消费高手第7868集</title>
+	</programme>
+	<programme channel="民视" start="20250513060000 +0800" stop="20250513070000 +0800">
+		<title lang="zh">民视六点晨间新闻</title>
+	</programme>
+	<programme channel="民视" start="20250513070000 +0800" stop="20250513080000 +0800">
+		<title lang="zh">民视七点晨间新闻</title>
+	</programme>
+	<programme channel="民视" start="20250513080000 +0800" stop="20250513090000 +0800">
+		<title lang="zh">医学大联盟第421集</title>
+	</programme>
+	<programme channel="民视" start="20250513090000 +0800" stop="20250513093000 +0800">
+		<title lang="zh">元气加油站第2934集</title>
+	</programme>
+	<programme channel="民视" start="20250513093000 +0800" stop="20250513100000 +0800">
+		<title lang="zh">健康面对面第35集</title>
+	</programme>
+	<programme channel="民视" start="20250513100000 +0800" stop="20250513103000 +0800">
+		<title lang="zh">消费高手第7868集</title>
+	</programme>
+	<programme channel="民视" start="20250513103000 +0800" stop="20250513110000 +0800">
+		<title lang="zh">美凤有约第5109集</title>
+	</programme>
+	<programme channel="民视" start="20250513110000 +0800" stop="20250513113000 +0800">
+		<title lang="zh">元气加油站第2782集</title>
+	</programme>
+	<programme channel="民视" start="20250513113000 +0800" stop="20250513120000 +0800">
+		<title lang="zh">消费高手第7724集</title>
+	</programme>
+	<programme channel="民视" start="20250513120000 +0800" stop="20250513123000 +0800">
+		<title lang="zh">民视无线午间新闻</title>
+	</programme>
+	<programme channel="民视" start="20250513123000 +0800" stop="20250513130000 +0800">
+		<title lang="zh">美凤有约第5111集</title>
+	</programme>
+	<programme channel="民视" start="20250513130000 +0800" stop="20250513151500 +0800">
+		<title lang="zh">好运来第99集</title>
+	</programme>
+	<programme channel="民视" start="20250513151500 +0800" stop="20250513151600 +0800">
+		<title lang="zh">新歌介绍第93集</title>
+	</programme>
+	<programme channel="民视" start="20250513151600 +0800" stop="20250513151700 +0800">
+		<title lang="zh">新歌介绍第102集</title>
+	</programme>
+	<programme channel="民视" start="20250513151700 +0800" stop="20250513153000 +0800">
+		<title lang="zh">消费高手</title>
+	</programme>
+	<programme channel="民视" start="20250513153000 +0800" stop="20250513160000 +0800">
+		<title lang="zh">消费高手第7843集</title>
+	</programme>
+	<programme channel="民视" start="20250513160000 +0800" stop="20250513163000 +0800">
+		<title lang="zh">元气加油站第2840集</title>
+	</programme>
+	<programme channel="民视" start="20250513163000 +0800" stop="20250513170000 +0800">
+		<title lang="zh">全民好健康第2集</title>
+	</programme>
+	<programme channel="民视" start="20250513170000 +0800" stop="20250513173000 +0800">
+		<title lang="zh">快乐故事屋第582集</title>
+	</programme>
+	<programme channel="民视" start="20250513173000 +0800" stop="20250513180000 +0800">
+		<title lang="zh">美凤有约第5046集</title>
+	</programme>
+	<programme channel="民视" start="20250513180000 +0800" stop="20250513183000 +0800">
+		<title lang="zh">民视晚间台语新闻</title>
+	</programme>
+	<programme channel="民视" start="20250513183000 +0800" stop="20250513190000 +0800">
+		<title lang="zh">美食十一X厨第165集</title>
+	</programme>
+	<programme channel="民视" start="20250513190000 +0800" stop="20250513200000 +0800">
+		<title lang="zh">民视晚间新闻</title>
+	</programme>
+	<programme channel="民视" start="20250513200000 +0800" stop="20250513221500 +0800">
+		<title lang="zh">好运来第100集</title>
+	</programme>
+	<programme channel="民视" start="20250513221500 +0800" stop="20250513231500 +0800">
+		<title lang="zh">医学大联盟第439集</title>
+	</programme>
+	<programme channel="民视" start="20250513231500 +0800" stop="20250513235900 +0800">
+		<title lang="zh">好运来第100集</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
