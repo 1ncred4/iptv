@@ -59,6 +59,8 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074
 台视新闻,https://tv.iill.top/litv/4gtv-4gtv051
 民视,https://tv.iill.top/litv/4gtv-4gtv002
+民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 华视,https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 中天综合,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
