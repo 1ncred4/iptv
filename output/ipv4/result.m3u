@@ -3,7 +3,5 @@
 rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="☘️台湾频道",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="☘️台湾频道",东森超视
-rtmp://9hv9.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
+rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
