@@ -10,9 +10,6 @@ on:
       - gd
 jobs:
   push:
-    env:
-      HTTP_PROXY: server-sy.ddns.net:1126
-      HTTPS_PROXY: server-sy.ddns.net:1126
     runs-on: ${{ matrix.operating-system }}
     strategy:
       matrix:
