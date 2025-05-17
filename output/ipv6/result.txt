@@ -1,5 +1,14 @@
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 
 ☘️台湾频道,#genre#
+民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
+中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
+三立综合,https://tv.iill.top/4gtv/169
+寰宇新闻,https://tv.iill.top/litv/litv-longturn14
+美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
