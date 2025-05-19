@@ -55,10 +55,10 @@ CCTV-17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhW
 云南卫视,http://goo.bkpcp.top/mg/ynws
 
 ☘️台湾频道,#genre#
-人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-8.m3u8
-中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-民视,https://stream1.freetv.fun/min-shi-10.ctv
+人间卫视,https://tv.iill.top/4gtv/210
+中视新闻,https://tv.iill.top/litv/4gtv-4gtv074
+台视新闻,https://tv.iill.top/litv/4gtv-4gtv051
+民视,https://tv.iill.top/litv/4gtv-4gtv002
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 华视,https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
@@ -66,13 +66,13 @@ CCTV-17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhW
 中天综合,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
-三立综合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+三立综合,https://tv.iill.top/4gtv/169
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立都会,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010
 八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
-东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+东森新闻,https://tv.iill.top/litv/4gtv-4gtv152
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森财经,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
