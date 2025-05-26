@@ -24,7 +24,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 📡卫视频道,#genre#
 广东卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+浙江卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/index.m3u8
 湖南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
 北京卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
 湖北卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
@@ -78,7 +78,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森财经,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
