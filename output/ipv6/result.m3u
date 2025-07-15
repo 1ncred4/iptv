@@ -7,6 +7,8 @@ http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -58,7 +60,7 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003873461.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000004796511.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003873468.m3u8
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887427.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
@@ -79,12 +81,14 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8
 https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾台.png" group-title="☘️台湾频道",民视台湾台
+https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视第一台.png" group-title="☘️台湾频道",民视第一台
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="☘️台湾频道",华视
 https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="☘️台湾频道",东森电影
