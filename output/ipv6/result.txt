@@ -1,20 +1,15 @@
 📺央视频道,#genre#
-CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 北京卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
 湖北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
@@ -45,9 +40,9 @@ CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 天津卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
 西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 新疆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
-云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 
 ☘️台湾频道,#genre#
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 华视,https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
