@@ -7,15 +7,15 @@ CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
+CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
-CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
+CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
+CCTV-16,http://36.105.100.208:35455/gaoma/cctv16.m3u8
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 
 📡卫视频道,#genre#
@@ -27,14 +27,14 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
-重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
 东南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
 甘肃卫视,http://120.238.94.10:9901/tsfile/live/1079_1.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
-海南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
-河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 吉林卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jlws
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
@@ -52,7 +52,7 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
+云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 
 ☘️台湾频道,#genre#
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -67,6 +67,5 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 华视,rtmp://59.124.75.138/sat/tv111
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
