@@ -15,14 +15,14 @@ CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
-CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
+CCTV-16,http://gmxw.7766.org:808/hls/169/index.m3u8
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 
 📡卫视频道,#genre#
-广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8
+广东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
+湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
@@ -46,13 +46,13 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
+四川卫视,http://120.238.94.10:9901/tsfile/live/1058_1.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-云南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=
+云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 
 ☘️台湾频道,#genre#
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -68,5 +68,4 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
-东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
