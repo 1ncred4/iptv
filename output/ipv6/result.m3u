@@ -109,3 +109,5 @@ https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="☘️台湾频道",华视
 https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="☘️台湾频道",美亚电影
+https://live.tvfix.org/live/mydy/index.m3u8
