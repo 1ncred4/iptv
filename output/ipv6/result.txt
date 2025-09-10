@@ -58,4 +58,3 @@ CCTV-17,https://migu.188766.xyz/?migutoken=ca7c805bd0483cd846605456f8499a63&id=C
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 华视,https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
