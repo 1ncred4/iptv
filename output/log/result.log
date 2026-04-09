@@ -1,235 +1,255 @@
 Name: CCTV-1, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://111.56.90.5/000000000000/1000000005000265001/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 5997 ms, Speed: 1.18 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://112.27.235.94:8000/hls/1/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10317 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://112.27.235.94:8000/hls/1/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10379 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://125.42.148.129:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10803 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://112.27.235.94:8000/hls/2/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10007 ms, Speed: 0.12 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 4640 ms, Speed: 0.93 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://112.27.235.94:8000/hls/2/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10852 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://125.42.148.129:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10975 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-吉林-辽源, ISP: 电信, Date: None, Delay: 10342 ms, Speed: 0.44 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://112.27.235.94:8000/hls/3/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10324 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10247 ms, Speed: 0.04 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://112.27.235.94:8000/hls/3/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10753 ms, Speed: 0.11 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10964 ms, Speed: 0.04 M/s, Resolution: None
+Name: CCTV-3, URL: http://gmxw.7766.org:808/hls/91/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10713 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-3, URL: http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10219 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://125.42.148.129:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10858 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 442 ms, Speed: 8.44 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://74.91.26.218:82/live/cctv4hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 281 ms, Speed: 1.92 M/s, Resolution: 1280x720
-Name: CCTV-4, URL: http://112.27.235.94:8000/hls/4/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10944 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10772 ms, Speed: 0.43 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://112.27.235.94:8000/hls/4/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10311 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://74.91.26.218:82/live/cctv4hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 10270 ms, Speed: 0.06 M/s, Resolution: 1280x720
+Name: CCTV-4, URL: http://125.42.148.129:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10282 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 906 ms, Speed: 2.93 M/s, Resolution: 1280x720
-Name: CCTV-5, URL: http://112.27.235.94:8000/hls/5/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10159 ms, Speed: 0.07 M/s, Resolution: 1920x1080
-Name: CCTV-5+, URL: http://74.91.26.218:82/live/cctv5p.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 452 ms, Speed: 7.47 M/s, Resolution: 1280x720
-Name: CCTV-5+, URL: http://107.150.60.122/live/cctv5p.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 1391 ms, Speed: 3.05 M/s, Resolution: 1920x1080
-Name: CCTV-5+, URL: http://111.56.90.5/000000000000/1000000005000265016/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 5965 ms, Speed: 1.18 M/s, Resolution: 1920x1080
-Name: CCTV-5+, URL: http://120.76.248.139/live/bfgd/4200000246.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10095 ms, Speed: 0.69 M/s, Resolution: 1920x1080
-Name: CCTV-5+, URL: http://111.56.90.5/000000000000/1000000001000020505/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 10353 ms, Speed: 0.64 M/s, Resolution: 1920x1080
-Name: CCTV-5+, URL: http://112.27.235.94:8000/hls/6/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10780 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 8519 ms, Speed: 0.27 M/s, Resolution: 1280x720
+Name: CCTV-5, URL: http://112.27.235.94:8000/hls/5/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10088 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://gmxw.7766.org:808/hls/93/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10547 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-5, URL: http://125.42.148.129:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10604 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5+, URL: http://107.150.60.122/live/cctv5p.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 526 ms, Speed: 8.45 M/s, Resolution: 1920x1080
+Name: CCTV-5+, URL: http://74.91.26.218:82/live/cctv5p.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 341 ms, Speed: 3.53 M/s, Resolution: 1280x720
+Name: CCTV-5+, URL: http://112.27.235.94:8000/hls/6/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10219 ms, Speed: 0.08 M/s, Resolution: None
+Name: CCTV-5+, URL: http://120.76.248.139/live/bfgd/4200000246.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10945 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://112.27.235.94:8000/hls/7/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10437 ms, Speed: 0.07 M/s, Resolution: None
-Name: CCTV-6, URL: http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0, IPv_Type: ipv4, Location: 中国, ISP: 阿里云, Date: None, Delay: 10722 ms, Speed: 0.01 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://112.27.235.94:8000/hls/7/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10260 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10645 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7, URL: http://112.27.235.94:8000/hls/8/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10106 ms, Speed: 0.11 M/s, Resolution: None
+Name: CCTV-7, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1774 ms, Speed: 2.70 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://112.27.235.94:8000/hls/8/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10225 ms, Speed: 0.12 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://125.42.148.129:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10959 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-8, URL: http://112.27.235.94:8000/hls/9/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10531 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10311 ms, Speed: 0.07 M/s, Resolution: None
+Name: CCTV-8, URL: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10227 ms, Speed: 0.14 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://112.27.235.94:8000/hls/9/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10083 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://gmxw.7766.org:808/hls/96/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10484 ms, Speed: 0.01 M/s, Resolution: None
 Name: CCTV-9, URL: http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-9, URL: http://74.91.26.218:82/live/cctv9hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 394 ms, Speed: 4.95 M/s, Resolution: 1280x720
-Name: CCTV-9, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 5314 ms, Speed: 0.51 M/s, Resolution: 1280x720
-Name: CCTV-9, URL: http://112.27.235.94:8000/hls/10/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10361 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://74.91.26.218:82/live/cctv9hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 428 ms, Speed: 7.35 M/s, Resolution: 1280x720
+Name: CCTV-9, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 554 ms, Speed: 6.32 M/s, Resolution: 1280x720
+Name: CCTV-9, URL: http://112.27.235.94:8000/hls/10/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10031 ms, Speed: 0.07 M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10, URL: https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10, URL: http://112.25.47.24/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8, IPv_Type: ipv4, Location: 中国-江苏, ISP: 移动, Date: None, Delay: 3534 ms, Speed: 1.04 M/s, Resolution: 720x576
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3055 ms, Speed: 0.48 M/s, Resolution: None
-Name: CCTV-10, URL: http://112.27.235.94:8000/hls/11/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10596 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3167 ms, Speed: 0.53 M/s, Resolution: None
+Name: CCTV-10, URL: http://112.27.235.94:8000/hls/11/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10132 ms, Speed: 0.06 M/s, Resolution: None
+Name: CCTV-10, URL: http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10396 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-11, URL: http://112.27.235.94:8000/hls/12/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10141 ms, Speed: 0.06 M/s, Resolution: None
+Name: CCTV-11, URL: http://112.27.235.94:8000/hls/12/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10587 ms, Speed: 0.08 M/s, Resolution: 1920x1080
 Name: CCTV-12, URL: http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12, URL: https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12, URL: http://23.237.228.134/live3/CCTV12.m3u8, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 720 ms, Speed: 1.30 M/s, Resolution: 1280x720
-Name: CCTV-12, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 3570 ms, Speed: 0.17 M/s, Resolution: 1280x720
-Name: CCTV-12, URL: http://112.27.235.94:8000/hls/13/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10325 ms, Speed: 0.09 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10216 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-12, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 4495 ms, Speed: 1.48 M/s, Resolution: 1920x1080
+Name: CCTV-12, URL: http://23.237.228.134/live3/CCTV12.m3u8, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 698 ms, Speed: 1.28 M/s, Resolution: 1280x720
+Name: CCTV-12, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 3075 ms, Speed: 0.69 M/s, Resolution: 1280x720
+Name: CCTV-12, URL: http://112.27.235.94:8000/hls/13/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10386 ms, Speed: 0.07 M/s, Resolution: None
+Name: CCTV-12, URL: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10230 ms, Speed: 0.06 M/s, Resolution: 1920x1080
 Name: CCTV-13, URL: https://cdn3.163189.xyz/163189/cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13, URL: http://112.25.47.24/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8, IPv_Type: ipv4, Location: 中国-江苏, ISP: 移动, Date: None, Delay: 2453 ms, Speed: 1.24 M/s, Resolution: 720x576
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2165 ms, Speed: 1.00 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://112.27.235.94:8000/hls/14/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10152 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2212 ms, Speed: 0.98 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://112.27.235.94:8000/hls/14/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10856 ms, Speed: 0.10 M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14, URL: http://74.91.26.218:82/live/cctv14hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 2631 ms, Speed: 2.01 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: http://112.27.235.94:8000/hls/15/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10323 ms, Speed: 0.08 M/s, Resolution: None
+Name: CCTV-14, URL: http://74.91.26.218:82/live/cctv14hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 492 ms, Speed: 5.06 M/s, Resolution: 1280x720
+Name: CCTV-14, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 5085 ms, Speed: 0.99 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: http://112.27.235.94:8000/hls/15/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10803 ms, Speed: 0.14 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: http://221.13.235.111:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-郑州, ISP: 联通, Date: None, Delay: 10852 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 345 ms, Speed: 3.48 M/s, Resolution: 1280x720
-Name: CCTV-15, URL: http://120.76.248.139/live/bfgd/4200000133.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10294 ms, Speed: 0.85 M/s, Resolution: 1920x1080
-Name: CCTV-15, URL: http://112.27.235.94:8000/hls/16/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10511 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10754 ms, Speed: 0.16 M/s, Resolution: 1280x720
+Name: CCTV-15, URL: http://112.27.235.94:8000/hls/16/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10616 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://gmxw.7766.org:808/hls/102/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10508 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-15, URL: http://120.76.248.139/live/bfgd/4200000133.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10023 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-16, URL: http://74.91.26.218:82/live/cctv16hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 999 ms, Speed: 4.91 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2859 ms, Speed: 0.92 M/s, Resolution: 1280x720
-Name: CCTV-16, URL: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10770 ms, Speed: 0.06 M/s, Resolution: None
-Name: CCTV-17, URL: http://120.76.248.139/live/bfgd/4200000204.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 5934 ms, Speed: 0.95 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://74.91.26.218:82/live/cctv16hd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 1877 ms, Speed: 2.58 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2674 ms, Speed: 0.65 M/s, Resolution: 1280x720
+Name: CCTV-16, URL: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10414 ms, Speed: 0.06 M/s, Resolution: None
+Name: CCTV-16, URL: http://gmxw.7766.org:808/hls/169/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10178 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-17, URL: http://120.76.248.139/live/bfgd/4200000204.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10527 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东卫视, URL: http://iptv.huuc.edu.cn/hls/gdhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东卫视, URL: https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4, IPv_Type: ipv4, Location: 日本, ISP: , Date: None, Delay: 162 ms, Speed: 206.04 M/s, Resolution: 1280x720
-Name: 广东卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 969 ms, Speed: 4.69 M/s, Resolution: 1920x1080
-Name: 广东卫视, URL: http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-吉林-辽源, ISP: 电信, Date: None, Delay: 10139 ms, Speed: 0.44 M/s, Resolution: None
-Name: 广东卫视, URL: http://112.27.235.94:8000/hls/30/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10323 ms, Speed: 0.06 M/s, Resolution: 720x576
+Name: 广东卫视, URL: https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 腾讯云, Date: None, Delay: 313 ms, Speed: 170.18 M/s, Resolution: 1280x720
+Name: 广东卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1425 ms, Speed: 2.81 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://112.27.235.94:8000/hls/30/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10084 ms, Speed: 0.13 M/s, Resolution: None
+Name: 广东卫视, URL: http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10186 ms, Speed: 0.00 M/s, Resolution: None
 Name: 浙江卫视, URL: http://iptv.huuc.edu.cn/hls/zjhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 浙江卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 浙江卫视, URL: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8, IPv_Type: ipv4, Location: 美国, ISP: 阿里云, Date: None, Delay: 482 ms, Speed: 4.48 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: https://play-qukan.cztv.com/live/1746687519046362.m3u8, IPv_Type: ipv4, Location: 美国, ISP: 阿里云, Date: None, Delay: 2519 ms, Speed: 1.29 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2143 ms, Speed: 0.87 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2334 ms, Speed: 0.83 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2322 ms, Speed: 0.83 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1660 ms, Speed: 0.42 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://112.27.235.94:8000/hls/29/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10216 ms, Speed: 0.07 M/s, Resolution: None
+Name: 浙江卫视, URL: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8, IPv_Type: ipv4, Location: 美国, ISP: 阿里云, Date: None, Delay: 108 ms, Speed: 15.19 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: https://play-qukan.cztv.com/live/1746687519046362.m3u8, IPv_Type: ipv4, Location: 美国, ISP: 阿里云, Date: None, Delay: 2452 ms, Speed: 1.70 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2210 ms, Speed: 0.86 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2229 ms, Speed: 0.82 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2344 ms, Speed: 0.82 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1569 ms, Speed: 0.44 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 2014 ms, Speed: 0.32 M/s, Resolution: 640x360
+Name: 浙江卫视, URL: http://112.27.235.94:8000/hls/29/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10441 ms, Speed: 0.15 M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://iptv.huuc.edu.cn/hls/hunanhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 湖南卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 湖南卫视, URL: http://74.91.26.218:82/live/hnwshd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 609 ms, Speed: 6.39 M/s, Resolution: 1920x1080
-Name: 湖南卫视, URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: AMD公司, Date: None, Delay: 861 ms, Speed: 1.77 M/s, Resolution: 3840x2160
-Name: 湖南卫视, URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: AMD公司, Date: None, Delay: 1693 ms, Speed: 0.87 M/s, Resolution: 3840x2160
-Name: 湖南卫视, URL: http://112.27.235.94:8000/hls/31/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10388 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: 湖南卫视, URL: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-驻马店, ISP: 联通, Date: None, Delay: 10228 ms, Speed: 0.02 M/s, Resolution: None
+Name: 湖南卫视, URL: http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 4774 ms, Speed: 1.33 M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: AMD公司, Date: None, Delay: 1575 ms, Speed: 1.00 M/s, Resolution: 3840x2160
+Name: 湖南卫视, URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: AMD公司, Date: None, Delay: 2139 ms, Speed: 0.75 M/s, Resolution: 3840x2160
+Name: 湖南卫视, URL: http://74.91.26.218:82/live/hnwshd.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 4983 ms, Speed: 0.16 M/s, Resolution: 1280x720
+Name: 湖南卫视, URL: http://112.27.235.94:8000/hls/31/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10761 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-驻马店, ISP: 联通, Date: None, Delay: 10254 ms, Speed: 0.07 M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://iptv.huuc.edu.cn/hls/btv1hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 北京卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 22 ms, Speed: 4.30 M/s, Resolution: None
-Name: 北京卫视, URL: http://111.56.90.5/000000000000/1000000005000265027/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 3961 ms, Speed: 1.87 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 4248 ms, Speed: 0.93 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://112.27.235.94:8000/hls/27/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10615 ms, Speed: 0.08 M/s, Resolution: None
+Name: 北京卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 565 ms, Speed: 7.38 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 21 ms, Speed: 4.50 M/s, Resolution: None
+Name: 北京卫视, URL: http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 5580 ms, Speed: 0.80 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://112.27.235.94:8000/hls/27/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10944 ms, Speed: 0.08 M/s, Resolution: 1920x1080
 Name: 湖北卫视, URL: http://iptv.huuc.edu.cn/hls/hbhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 湖北卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 湖北卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 510 ms, Speed: 10.03 M/s, Resolution: 1920x1080
-Name: 湖北卫视, URL: http://107.150.60.122/live/hbwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 573 ms, Speed: 8.97 M/s, Resolution: 1920x1080
-Name: 湖北卫视, URL: http://112.27.235.94:8000/hls/41/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10177 ms, Speed: 0.09 M/s, Resolution: None
+Name: 湖北卫视, URL: http://107.150.60.122/live/hbwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 511 ms, Speed: 8.62 M/s, Resolution: 1920x1080
+Name: 湖北卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 565 ms, Speed: 7.43 M/s, Resolution: 1920x1080
+Name: 湖北卫视, URL: http://112.27.235.94:8000/hls/41/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10515 ms, Speed: 0.12 M/s, Resolution: 1920x1080
 Name: 黑龙江卫视, URL: https://idclive.hljtv.com:4430/live/hljws_own.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 黑龙江卫视, URL: http://iptv.huuc.edu.cn/hls/hljhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 黑龙江卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 4010 ms, Speed: 1.09 M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: http://112.27.235.94:8000/hls/48/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10322 ms, Speed: 0.07 M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: http://120.76.248.139/live/bfgd/4200000095.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10996 ms, Speed: 0.00 M/s, Resolution: None
+Name: 黑龙江卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 927 ms, Speed: 4.45 M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: http://112.27.235.94:8000/hls/48/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10020 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10403 ms, Speed: 0.00 M/s, Resolution: None
+Name: 黑龙江卫视, URL: http://120.76.248.139/live/bfgd/4200000095.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10879 ms, Speed: 0.00 M/s, Resolution: None
 Name: 安徽卫视, URL: http://iptv.huuc.edu.cn/hls/ahhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 安徽卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 安徽卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 525 ms, Speed: 8.82 M/s, Resolution: 1920x1080
-Name: 安徽卫视, URL: http://112.27.235.94:8000/hls/26/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10629 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: 安徽卫视, URL: http://112.27.235.94:8000/hls/26/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10297 ms, Speed: 0.22 M/s, Resolution: 1920x1080
+Name: 安徽卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 8074 ms, Speed: 0.14 M/s, Resolution: None
+Name: 安徽卫视, URL: http://gmxw.7766.org:808/hls/40/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10138 ms, Speed: 0.02 M/s, Resolution: None
+Name: 安徽卫视, URL: http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10451 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重庆卫视, URL: http://iptv.huuc.edu.cn/hls/cqhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重庆卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 重庆卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1985 ms, Speed: 1.95 M/s, Resolution: 1920x1080
-Name: 重庆卫视, URL: http://111.56.90.5/000000000000/1000000005000265017/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 5620 ms, Speed: 1.71 M/s, Resolution: 1920x1080
-Name: 重庆卫视, URL: http://107.150.60.122/live/cqwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 3103 ms, Speed: 0.23 M/s, Resolution: 1280x720
-Name: 重庆卫视, URL: http://112.27.235.94:8000/hls/36/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10017 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: 重庆卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 462 ms, Speed: 9.35 M/s, Resolution: 1920x1080
+Name: 重庆卫视, URL: http://107.150.60.122/live/cqwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 1234 ms, Speed: 3.66 M/s, Resolution: 1920x1080
+Name: 重庆卫视, URL: http://112.27.235.94:8000/hls/36/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10740 ms, Speed: 0.13 M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://iptv.huuc.edu.cn/hls/dfhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东方卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 706 ms, Speed: 5.82 M/s, Resolution: 1920x1080
-Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/155/3/video.m3u8, IPv_Type: ipv4, Location: 美国, ISP: 阿里云, Date: None, Delay: 7275 ms, Speed: 0.31 M/s, Resolution: 1920x1080
+Name: 东方卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 496 ms, Speed: 7.99 M/s, Resolution: 1920x1080
+Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/155/3/video.m3u8, IPv_Type: ipv4, Location: 美国, ISP: 阿里云, Date: None, Delay: 3680 ms, Speed: 1.74 M/s, Resolution: 1920x1080
 Name: 东南卫视, URL: http://iptv.huuc.edu.cn/hls/dnhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东南卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东南卫视, URL: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东南卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 645 ms, Speed: 6.24 M/s, Resolution: 1920x1080
-Name: 东南卫视, URL: http://112.27.235.94:8000/hls/38/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10650 ms, Speed: 0.04 M/s, Resolution: 1920x1080
-Name: 东南卫视, URL: http://120.76.248.139/live/bfgd/4200000483.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10866 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东南卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 439 ms, Speed: 8.76 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://112.27.235.94:8000/hls/38/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10718 ms, Speed: 0.13 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://125.42.148.129:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10165 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东南卫视, URL: http://120.76.248.139/live/bfgd/4200000483.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10140 ms, Speed: 0.00 M/s, Resolution: None
 Name: 甘肃卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 甘肃卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 433 ms, Speed: 7.83 M/s, Resolution: 1920x1080
+Name: 甘肃卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 824 ms, Speed: 5.22 M/s, Resolution: 1920x1080
 Name: 广西卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广西卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 933 ms, Speed: 5.22 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: http://107.150.60.122/live/gxwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 1458 ms, Speed: 3.34 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: http://111.56.90.5/000000000000/1000000002000019837/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 6657 ms, Speed: 0.82 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: http://107.150.60.122/live/gxwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 482 ms, Speed: 8.55 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 833 ms, Speed: 6.66 M/s, Resolution: 1920x1080
 Name: 贵州卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 贵州卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 606 ms, Speed: 9.24 M/s, Resolution: 1920x1080
-Name: 贵州卫视, URL: http://111.56.90.5/000000000000/1000000002000003169/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 3799 ms, Speed: 1.46 M/s, Resolution: 1920x1080
-Name: 贵州卫视, URL: http://112.27.235.94:8000/hls/46/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10811 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: 贵州卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 508 ms, Speed: 7.61 M/s, Resolution: 1920x1080
+Name: 贵州卫视, URL: http://112.27.235.94:8000/hls/46/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10269 ms, Speed: 0.14 M/s, Resolution: 1920x1080
 Name: 海南卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 海南卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=hnws, IPv_Type: ipv4, Location: 中国-江苏-宿迁, ISP: 七星云BGP数据中心, Date: None, Delay: 3236 ms, Speed: 0.84 M/s, Resolution: 1920x1080
-Name: 海南卫视, URL: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10708 ms, Speed: 0.09 M/s, Resolution: None
-Name: 海南卫视, URL: http://120.76.248.139/live/bfgd/4200000473.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10175 ms, Speed: 0.00 M/s, Resolution: None
+Name: 海南卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=hnws, IPv_Type: ipv4, Location: 中国-江苏-宿迁, ISP: 七星云BGP数据中心, Date: None, Delay: 3611 ms, Speed: 0.76 M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-阜新, ISP: 移动, Date: None, Delay: 10266 ms, Speed: 0.08 M/s, Resolution: None
+Name: 海南卫视, URL: http://120.76.248.139/live/bfgd/4200000473.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10295 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://iptv.huuc.edu.cn/hls/hebhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 河北卫视, URL: http://112.27.235.94:8000/hls/39/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10320 ms, Speed: 0.11 M/s, Resolution: 1920x1080
-Name: 河北卫视, URL: http://120.76.248.139/live/bfgd/4200000108.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10600 ms, Speed: 0.00 M/s, Resolution: None
+Name: 河北卫视, URL: http://112.27.235.94:8000/hls/39/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10708 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: 河北卫视, URL: http://120.76.248.139/live/bfgd/4200000108.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10585 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河南卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河南卫视, URL: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8, IPv_Type: ipv6, Location: 加拿大, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 37 ms, Speed: 10.16 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://112.27.235.94:8000/hls/37/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10070 ms, Speed: 0.11 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 71 ms, Speed: 10.43 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://112.27.235.94:8000/hls/37/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10751 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://125.42.148.129:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10811 ms, Speed: 0.00 M/s, Resolution: None
 Name: 吉林卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 江苏卫视, URL: http://iptv.huuc.edu.cn/hls/jshd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 江苏卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 江苏卫视, URL: http://112.27.235.94:8000/hls/32/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10607 ms, Speed: 0.12 M/s, Resolution: None
+Name: 江苏卫视, URL: http://112.27.235.94:8000/hls/32/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10021 ms, Speed: 0.12 M/s, Resolution: 1920x1080
+Name: 江苏卫视, URL: http://221.13.235.4:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-郑州, ISP: 联通, Date: None, Delay: 1448 ms, Speed: 0.00 M/s, Resolution: None
 Name: 江西卫视, URL: http://iptv.huuc.edu.cn/hls/jxhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 江西卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 江西卫视, URL: http://112.27.235.94:8000/hls/44/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10954 ms, Speed: 0.10 M/s, Resolution: None
+Name: 江西卫视, URL: http://112.27.235.94:8000/hls/44/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10829 ms, Speed: 0.18 M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://iptv.huuc.edu.cn/hls/lnhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 辽宁卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 辽宁卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2048 ms, Speed: 2.05 M/s, Resolution: 1920x1080
-Name: 辽宁卫视, URL: http://112.27.235.94:8000/hls/47/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10756 ms, Speed: 0.13 M/s, Resolution: 1920x1080
-Name: 内蒙古卫视, URL: http://111.56.90.5/000000000000/5559214655508729688/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 2980 ms, Speed: 0.71 M/s, Resolution: None
-Name: 内蒙古卫视, URL: http://112.27.235.94:8000/hls/49/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10496 ms, Speed: 0.10 M/s, Resolution: 720x576
-Name: 内蒙古卫视, URL: http://120.76.248.139/live/bfgd/4200000110.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10017 ms, Speed: 0.00 M/s, Resolution: None
-Name: 宁夏卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 698 ms, Speed: 5.77 M/s, Resolution: 1920x1080
-Name: 宁夏卫视, URL: http://120.76.248.139/live/bfgd/4200000118.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10960 ms, Speed: 0.00 M/s, Resolution: None
+Name: 辽宁卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 757 ms, Speed: 5.92 M/s, Resolution: 1920x1080
+Name: 辽宁卫视, URL: http://112.27.235.94:8000/hls/47/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10513 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: 辽宁卫视, URL: http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10900 ms, Speed: 0.00 M/s, Resolution: None
+Name: 内蒙古卫视, URL: http://112.27.235.94:8000/hls/49/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10361 ms, Speed: 0.15 M/s, Resolution: 720x576
+Name: 内蒙古卫视, URL: http://120.76.248.139/live/bfgd/4200000110.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10899 ms, Speed: 0.00 M/s, Resolution: None
+Name: 宁夏卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 544 ms, Speed: 7.66 M/s, Resolution: 1920x1080
+Name: 宁夏卫视, URL: http://120.76.248.139/live/bfgd/4200000118.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10626 ms, Speed: 0.00 M/s, Resolution: None
 Name: 青海卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 青海卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 792 ms, Speed: 5.69 M/s, Resolution: 1920x1080
-Name: 青海卫视, URL: http://120.76.248.139/live/bfgd/4200000111.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10997 ms, Speed: 0.00 M/s, Resolution: None
+Name: 青海卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1714 ms, Speed: 2.80 M/s, Resolution: 1920x1080
+Name: 青海卫视, URL: http://120.76.248.139/live/bfgd/4200000111.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10911 ms, Speed: 0.00 M/s, Resolution: None
 Name: 山东卫视, URL: http://iptv.huuc.edu.cn/hls/sdhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 山东卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 山东卫视, URL: http://112.27.235.94:8000/hls/34/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10080 ms, Speed: 0.09 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://120.76.248.139/live/bfgd/4200000099.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10843 ms, Speed: 0.00 M/s, Resolution: None
+Name: 山东卫视, URL: http://112.27.235.94:8000/hls/34/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10529 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10455 ms, Speed: 0.01 M/s, Resolution: None
+Name: 山东卫视, URL: http://120.76.248.139/live/bfgd/4200000099.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10097 ms, Speed: 0.00 M/s, Resolution: None
 Name: 山西卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 山西卫视, URL: http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 山西卫视, URL: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 联通, Date: None, Delay: 10943 ms, Speed: 0.45 M/s, Resolution: 1920x1080
-Name: 山西卫视, URL: http://112.27.235.94:8000/hls/45/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10372 ms, Speed: 0.15 M/s, Resolution: 720x576
-Name: 陕西卫视, URL: http://107.150.60.122/live/snwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 666 ms, Speed: 6.24 M/s, Resolution: 1920x1080
-Name: 陕西卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 671 ms, Speed: 6.21 M/s, Resolution: 1920x1080
-Name: 陕西卫视, URL: http://112.27.235.94:8000/hls/43/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10609 ms, Speed: 0.16 M/s, Resolution: 1920x1080
+Name: 山西卫视, URL: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 联通, Date: None, Delay: 10601 ms, Speed: 0.29 M/s, Resolution: 1920x1080
+Name: 山西卫视, URL: http://112.27.235.94:8000/hls/45/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10390 ms, Speed: 0.05 M/s, Resolution: 720x576
+Name: 陕西卫视, URL: http://107.150.60.122/live/snwshd.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 1387 ms, Speed: 2.66 M/s, Resolution: 1920x1080
+Name: 陕西卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1440 ms, Speed: 2.62 M/s, Resolution: 1920x1080
+Name: 陕西卫视, URL: http://112.27.235.94:8000/hls/43/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10941 ms, Speed: 0.21 M/s, Resolution: 1920x1080
 Name: 四川卫视, URL: http://iptv.huuc.edu.cn/hls/schd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 四川卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 四川卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 590 ms, Speed: 7.28 M/s, Resolution: 1920x1080
-Name: 四川卫视, URL: http://112.27.235.94:8000/hls/35/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10073 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: 四川卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 904 ms, Speed: 4.92 M/s, Resolution: 1920x1080
+Name: 四川卫视, URL: http://112.27.235.94:8000/hls/35/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10015 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: 四川卫视, URL: http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10557 ms, Speed: 0.00 M/s, Resolution: None
 Name: 深圳卫视, URL: http://iptv.huuc.edu.cn/hls/szhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 深圳卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 深圳卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2378 ms, Speed: 1.85 M/s, Resolution: 1920x1080
-Name: 深圳卫视, URL: http://112.27.235.94:8000/hls/33/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10367 ms, Speed: 0.10 M/s, Resolution: None
-Name: 三沙卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 4768 ms, Speed: 1.46 M/s, Resolution: 1920x1080
-Name: 三沙卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=ssws, IPv_Type: ipv4, Location: 中国-江苏-宿迁, ISP: 七星云BGP数据中心, Date: None, Delay: 2383 ms, Speed: 0.18 M/s, Resolution: 1280x720
+Name: 深圳卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2137 ms, Speed: 2.00 M/s, Resolution: 1920x1080
+Name: 深圳卫视, URL: http://112.27.235.94:8000/hls/33/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10636 ms, Speed: 0.15 M/s, Resolution: 1920x1080
+Name: 深圳卫视, URL: http://gmxw.7766.org:808/hls/45/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10500 ms, Speed: 0.01 M/s, Resolution: None
+Name: 深圳卫视, URL: http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10714 ms, Speed: 0.00 M/s, Resolution: None
+Name: 三沙卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 3052 ms, Speed: 1.65 M/s, Resolution: 1920x1080
+Name: 三沙卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=ssws, IPv_Type: ipv4, Location: 中国-江苏-宿迁, ISP: 七星云BGP数据中心, Date: None, Delay: 1692 ms, Speed: 0.24 M/s, Resolution: 1280x720
 Name: 天津卫视, URL: http://iptv.huuc.edu.cn/hls/tjhd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天津卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 天津卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2275 ms, Speed: 2.14 M/s, Resolution: 1920x1080
-Name: 天津卫视, URL: http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-吉林-辽源, ISP: 电信, Date: None, Delay: 10216 ms, Speed: 0.39 M/s, Resolution: 1920x1080
-Name: 天津卫视, URL: http://112.27.235.94:8000/hls/42/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10411 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: 西藏卫视, URL: http://107.150.60.122/live/xzws.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 946 ms, Speed: 4.31 M/s, Resolution: 1920x1080
-Name: 新疆卫视, URL: http://111.56.90.5/000000000000/1000000002000029441/1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古, ISP: 移动, Date: None, Delay: 3639 ms, Speed: 1.48 M/s, Resolution: 1920x1080
-Name: 新疆卫视, URL: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd, IPv_Type: ipv4, Location: 中国-新疆-伊犁哈萨克自治州, ISP: 电信, Date: None, Delay: 3802 ms, Speed: 0.35 M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 509 ms, Speed: 9.21 M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://112.27.235.94:8000/hls/42/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10048 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://125.42.148.129:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-新乡, ISP: 联通, Date: None, Delay: 10133 ms, Speed: 0.00 M/s, Resolution: None
+Name: 天津卫视, URL: http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 电信, Date: None, Delay: 10353 ms, Speed: 0.00 M/s, Resolution: None
+Name: 西藏卫视, URL: http://107.150.60.122/live/xzws.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 677 ms, Speed: 6.85 M/s, Resolution: 1920x1080
+Name: 新疆卫视, URL: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd, IPv_Type: ipv4, Location: 中国-新疆-伊犁哈萨克自治州, ISP: 电信, Date: None, Delay: 4460 ms, Speed: 0.29 M/s, Resolution: 1920x1080
 Name: 云南卫视, URL: https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 云南卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1262 ms, Speed: 2.84 M/s, Resolution: 1920x1080
-Name: 云南卫视, URL: http://112.27.235.94:8000/hls/40/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10083 ms, Speed: 0.07 M/s, Resolution: 1920x1080
-Name: 人间卫视, URL: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8, IPv_Type: ipv4, Location: 中国-台湾-台北市, ISP: 中华电信, Date: None, Delay: 6641 ms, Speed: 0.25 M/s, Resolution: 1280x720
-Name: 人间卫视, URL: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u, IPv_Type: ipv4, Location: 中国-台湾-台北市, ISP: 中华电信, Date: None, Delay: 7421 ms, Speed: 0.22 M/s, Resolution: 1280x720
-Name: 大立电视台, URL: http://www.dalitv.com.tw:4568/live/dali/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet), Date: None, Delay: 382 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 中视, URL: rtmp://59.124.75.138/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3278 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 中视, URL: rtmp://f13h.mine.nu/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 8082 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 中视, URL: rtmp://59.124.75.157/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 796 ms, Speed: 0.00 M/s, Resolution: None
-Name: 台视, URL: rtmp://59.124.75.138/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3290 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 台视, URL: rtmp://f13h.mine.nu/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 4109 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 台视, URL: http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 5180 ms, Speed: 0.46 M/s, Resolution: 1920x1080
-Name: 台视, URL: rtmp://59.124.75.157/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 796 ms, Speed: 0.00 M/s, Resolution: None
-Name: 台视新闻, URL: http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 5666 ms, Speed: 0.35 M/s, Resolution: 1920x1080
-Name: 民视, URL: rtmp://59.124.75.138/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3304 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 民视, URL: rtmp://f13h.mine.nu/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 4230 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 民视, URL: rtmp://59.124.75.157/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 798 ms, Speed: 0.00 M/s, Resolution: None
-Name: 民视新闻台, URL: http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 6583 ms, Speed: 0.41 M/s, Resolution: 1920x1080
+Name: 云南卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 488 ms, Speed: 5.59 M/s, Resolution: 1920x1080
+Name: 云南卫视, URL: http://112.27.235.94:8000/hls/40/index.m3u8, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10087 ms, Speed: 0.15 M/s, Resolution: 1920x1080
+Name: 人间卫视, URL: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u, IPv_Type: ipv4, Location: 中国-台湾-台北市, ISP: 中华电信, Date: None, Delay: 6079 ms, Speed: 0.26 M/s, Resolution: 1280x720
+Name: 人间卫视, URL: http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8, IPv_Type: ipv4, Location: 中国-台湾-台北市, ISP: 中华电信, Date: None, Delay: 5932 ms, Speed: 0.26 M/s, Resolution: 1280x720
+Name: 大立电视台, URL: http://www.dalitv.com.tw:4568/live/dali/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet), Date: None, Delay: 397 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 中视, URL: rtmp://59.124.75.138/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3220 ms, Speed: inf M/s, Resolution: 1280x720
+Name: 中视, URL: rtmp://59.124.75.157/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 793 ms, Speed: 0.00 M/s, Resolution: None
+Name: 中视, URL: rtmp://f13h.mine.nu/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 台视, URL: rtmp://59.124.75.138/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3284 ms, Speed: inf M/s, Resolution: 1280x720
+Name: 台视, URL: http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 4946 ms, Speed: 0.58 M/s, Resolution: 1920x1080
+Name: 台视, URL: rtmp://59.124.75.157/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 822 ms, Speed: 0.00 M/s, Resolution: None
+Name: 台视, URL: rtmp://f13h.mine.nu/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 台视新闻, URL: http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 3611 ms, Speed: 0.37 M/s, Resolution: 1920x1080
+Name: 民视, URL: rtmp://59.124.75.138/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3361 ms, Speed: inf M/s, Resolution: 1280x720
+Name: 民视, URL: rtmp://59.124.75.157/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 790 ms, Speed: 0.00 M/s, Resolution: None
+Name: 民视, URL: rtmp://f13h.mine.nu/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
+Name: 民视新闻台, URL: http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 4369 ms, Speed: 0.48 M/s, Resolution: 1920x1080
 Name: 民视台湾台, URL: https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 民视第一台, URL: https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 华视, URL: rtmp://59.124.75.138/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3261 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 华视, URL: rtmp://f13h.mine.nu/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 4262 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 华视, URL: rtmp://59.124.75.157/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 802 ms, Speed: 0.00 M/s, Resolution: None
-Name: 中天娱乐, URL: http://61.221.215.25:8800/hls/47/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 7011 ms, Speed: 0.28 M/s, Resolution: 1280x720
-Name: 非凡新闻, URL: rtmp://f13h.mine.nu/sat/tv581, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 7069 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 东森超视, URL: rtmp://f13h.mine.nu/sat/tv331, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 4256 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 东森超视, URL: http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 3216 ms, Speed: 0.51 M/s, Resolution: 1920x1080
-Name: 东森超视, URL: rtmp://59.124.75.157/sat/tv331, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 797 ms, Speed: 0.00 M/s, Resolution: None
+Name: 华视, URL: rtmp://59.124.75.138/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 3310 ms, Speed: inf M/s, Resolution: 1280x720
+Name: 华视, URL: rtmp://59.124.75.157/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 795 ms, Speed: 0.00 M/s, Resolution: None
+Name: 华视, URL: rtmp://f13h.mine.nu/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
+Name: 中天娱乐, URL: http://61.221.215.25:8800/hls/47/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 6893 ms, Speed: 0.28 M/s, Resolution: 1280x720
+Name: 非凡新闻, URL: rtmp://f13h.mine.nu/sat/tv581, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视, URL: http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 3773 ms, Speed: 0.44 M/s, Resolution: 1920x1080
+Name: 东森超视, URL: rtmp://59.124.75.157/sat/tv331, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: 794 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视, URL: rtmp://f13h.mine.nu/sat/tv331, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
